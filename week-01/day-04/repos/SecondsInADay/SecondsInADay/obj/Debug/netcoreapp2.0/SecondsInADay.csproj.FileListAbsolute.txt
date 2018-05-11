@@ -1,0 +1,10 @@
+c:\users\user\source\repos\SecondsInADay\SecondsInADay\bin\Debug\netcoreapp2.0\SecondsInADay.deps.json
+c:\users\user\source\repos\SecondsInADay\SecondsInADay\bin\Debug\netcoreapp2.0\SecondsInADay.runtimeconfig.json
+c:\users\user\source\repos\SecondsInADay\SecondsInADay\bin\Debug\netcoreapp2.0\SecondsInADay.runtimeconfig.dev.json
+c:\users\user\source\repos\SecondsInADay\SecondsInADay\bin\Debug\netcoreapp2.0\SecondsInADay.dll
+c:\users\user\source\repos\SecondsInADay\SecondsInADay\bin\Debug\netcoreapp2.0\SecondsInADay.pdb
+c:\users\user\source\repos\SecondsInADay\SecondsInADay\obj\Debug\netcoreapp2.0\SecondsInADay.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\SecondsInADay\SecondsInADay\obj\Debug\netcoreapp2.0\SecondsInADay.AssemblyInfoInputs.cache
+c:\users\user\source\repos\SecondsInADay\SecondsInADay\obj\Debug\netcoreapp2.0\SecondsInADay.AssemblyInfo.cs
+c:\users\user\source\repos\SecondsInADay\SecondsInADay\obj\Debug\netcoreapp2.0\SecondsInADay.dll
+c:\users\user\source\repos\SecondsInADay\SecondsInADay\obj\Debug\netcoreapp2.0\SecondsInADay.pdb

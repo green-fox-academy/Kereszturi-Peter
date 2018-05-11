@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\netcoreapp2.0\BodyMassIndex.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\netcoreapp2.0\BodyMassIndex.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\netcoreapp2.0\BodyMassIndex.AssemblyInfo.cs
+C:\Users\User\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\netcoreapp2.0\BodyMassIndex.deps.json
+C:\Users\User\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\netcoreapp2.0\BodyMassIndex.runtimeconfig.json
+C:\Users\User\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\netcoreapp2.0\BodyMassIndex.runtimeconfig.dev.json
+C:\Users\User\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\netcoreapp2.0\BodyMassIndex.dll
+C:\Users\User\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\netcoreapp2.0\BodyMassIndex.pdb
+C:\Users\User\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\netcoreapp2.0\BodyMassIndex.dll
+C:\Users\User\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\netcoreapp2.0\BodyMassIndex.pdb

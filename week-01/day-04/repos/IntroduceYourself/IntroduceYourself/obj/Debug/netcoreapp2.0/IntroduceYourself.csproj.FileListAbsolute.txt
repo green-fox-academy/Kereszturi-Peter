@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\IntroduceYourself\IntroduceYourself\obj\Debug\netcoreapp2.0\IntroduceYourself.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IntroduceYourself\IntroduceYourself\obj\Debug\netcoreapp2.0\IntroduceYourself.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\IntroduceYourself\IntroduceYourself\obj\Debug\netcoreapp2.0\IntroduceYourself.AssemblyInfo.cs
+C:\Users\User\source\repos\IntroduceYourself\IntroduceYourself\bin\Debug\netcoreapp2.0\IntroduceYourself.deps.json
+C:\Users\User\source\repos\IntroduceYourself\IntroduceYourself\bin\Debug\netcoreapp2.0\IntroduceYourself.runtimeconfig.json
+C:\Users\User\source\repos\IntroduceYourself\IntroduceYourself\bin\Debug\netcoreapp2.0\IntroduceYourself.runtimeconfig.dev.json
+C:\Users\User\source\repos\IntroduceYourself\IntroduceYourself\bin\Debug\netcoreapp2.0\IntroduceYourself.dll
+C:\Users\User\source\repos\IntroduceYourself\IntroduceYourself\bin\Debug\netcoreapp2.0\IntroduceYourself.pdb
+C:\Users\User\source\repos\IntroduceYourself\IntroduceYourself\obj\Debug\netcoreapp2.0\IntroduceYourself.dll
+C:\Users\User\source\repos\IntroduceYourself\IntroduceYourself\obj\Debug\netcoreapp2.0\IntroduceYourself.pdb

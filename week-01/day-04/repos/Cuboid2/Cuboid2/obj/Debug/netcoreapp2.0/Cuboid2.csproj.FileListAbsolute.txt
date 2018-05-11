@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Cuboid2\Cuboid2\bin\Debug\netcoreapp2.0\Cuboid2.deps.json
+C:\Users\User\source\repos\Cuboid2\Cuboid2\bin\Debug\netcoreapp2.0\Cuboid2.runtimeconfig.json
+C:\Users\User\source\repos\Cuboid2\Cuboid2\bin\Debug\netcoreapp2.0\Cuboid2.runtimeconfig.dev.json
+C:\Users\User\source\repos\Cuboid2\Cuboid2\bin\Debug\netcoreapp2.0\Cuboid2.dll
+C:\Users\User\source\repos\Cuboid2\Cuboid2\bin\Debug\netcoreapp2.0\Cuboid2.pdb
+C:\Users\User\source\repos\Cuboid2\Cuboid2\obj\Debug\netcoreapp2.0\Cuboid2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cuboid2\Cuboid2\obj\Debug\netcoreapp2.0\Cuboid2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Cuboid2\Cuboid2\obj\Debug\netcoreapp2.0\Cuboid2.AssemblyInfo.cs
+C:\Users\User\source\repos\Cuboid2\Cuboid2\obj\Debug\netcoreapp2.0\Cuboid2.dll
+C:\Users\User\source\repos\Cuboid2\Cuboid2\obj\Debug\netcoreapp2.0\Cuboid2.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\HelloME\HelloME\bin\Debug\netcoreapp2.0\HelloME.deps.json
+C:\Users\User\source\repos\HelloME\HelloME\bin\Debug\netcoreapp2.0\HelloME.runtimeconfig.json
+C:\Users\User\source\repos\HelloME\HelloME\bin\Debug\netcoreapp2.0\HelloME.runtimeconfig.dev.json
+C:\Users\User\source\repos\HelloME\HelloME\bin\Debug\netcoreapp2.0\HelloME.dll
+C:\Users\User\source\repos\HelloME\HelloME\bin\Debug\netcoreapp2.0\HelloME.pdb
+C:\Users\User\source\repos\HelloME\HelloME\obj\Debug\netcoreapp2.0\HelloME.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HelloME\HelloME\obj\Debug\netcoreapp2.0\HelloME.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HelloME\HelloME\obj\Debug\netcoreapp2.0\HelloME.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HelloME\HelloME\obj\Debug\netcoreapp2.0\HelloME.AssemblyInfo.cs
+C:\Users\User\source\repos\HelloME\HelloME\obj\Debug\netcoreapp2.0\HelloME.dll
+C:\Users\User\source\repos\HelloME\HelloME\obj\Debug\netcoreapp2.0\HelloME.pdb
