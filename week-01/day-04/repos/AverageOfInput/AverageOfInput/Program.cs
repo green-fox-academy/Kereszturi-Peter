@@ -1,28 +1,23 @@
 ﻿using System;
 
-namespace AverageOfInput
+namespace GreenFox
 {
     class Program
     {
         static void Main(string[] args)
         {
-            double var = 0, temp;
-            Console.WriteLine("Type in 5 numbers: ");
-            
-            for (int i = 1; i <= 5; i++)
+            int sum = 0;
+
+            Console.WriteLine("Please give us 5 numbers seperated by enter: ");
+
+            for (int i = 0; i < 5; i++)
             {
-                temp = Convert.ToInt32(Console.ReadLine());
-                var += temp;
+                sum += Int32.Parse(Console.ReadLine());
             }
 
-            Console.WriteLine("Sum: " + var + "\r\nAverage: " + var / 5);
-            Console.ReadLine();
-                
+            Console.WriteLine("Sum: " + sum + "\r\nAverage: " + sum / 5);
 
-            // Write a program that asks for 5 integers in a row,
-            // then it should print the sum and the average of these numbers like:
-            //
-            // Sum: 22, Average: 4.4
+            Console.ReadLine();
         }
     }
 }

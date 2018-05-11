@@ -1,0 +1,11 @@
+D:\greenfox\Plonee\week-01\day-04\repos\MileToKmConverter\MileToKmConverter\bin\Debug\netcoreapp2.0\MileToKmConverter.deps.json
+D:\greenfox\Plonee\week-01\day-04\repos\MileToKmConverter\MileToKmConverter\bin\Debug\netcoreapp2.0\MileToKmConverter.runtimeconfig.json
+D:\greenfox\Plonee\week-01\day-04\repos\MileToKmConverter\MileToKmConverter\bin\Debug\netcoreapp2.0\MileToKmConverter.runtimeconfig.dev.json
+D:\greenfox\Plonee\week-01\day-04\repos\MileToKmConverter\MileToKmConverter\bin\Debug\netcoreapp2.0\MileToKmConverter.dll
+D:\greenfox\Plonee\week-01\day-04\repos\MileToKmConverter\MileToKmConverter\bin\Debug\netcoreapp2.0\MileToKmConverter.pdb
+D:\greenfox\Plonee\week-01\day-04\repos\MileToKmConverter\MileToKmConverter\obj\Debug\netcoreapp2.0\MileToKmConverter.csprojAssemblyReference.cache
+D:\greenfox\Plonee\week-01\day-04\repos\MileToKmConverter\MileToKmConverter\obj\Debug\netcoreapp2.0\MileToKmConverter.csproj.CoreCompileInputs.cache
+D:\greenfox\Plonee\week-01\day-04\repos\MileToKmConverter\MileToKmConverter\obj\Debug\netcoreapp2.0\MileToKmConverter.AssemblyInfoInputs.cache
+D:\greenfox\Plonee\week-01\day-04\repos\MileToKmConverter\MileToKmConverter\obj\Debug\netcoreapp2.0\MileToKmConverter.AssemblyInfo.cs
+D:\greenfox\Plonee\week-01\day-04\repos\MileToKmConverter\MileToKmConverter\obj\Debug\netcoreapp2.0\MileToKmConverter.dll
+D:\greenfox\Plonee\week-01\day-04\repos\MileToKmConverter\MileToKmConverter\obj\Debug\netcoreapp2.0\MileToKmConverter.pdb

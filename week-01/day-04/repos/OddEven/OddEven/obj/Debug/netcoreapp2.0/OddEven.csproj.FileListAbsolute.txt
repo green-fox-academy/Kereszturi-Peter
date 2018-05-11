@@ -1,0 +1,11 @@
+D:\greenfox\Plonee\week-01\day-04\repos\OddEven\OddEven\obj\Debug\netcoreapp2.0\OddEven.csprojAssemblyReference.cache
+D:\greenfox\Plonee\week-01\day-04\repos\OddEven\OddEven\obj\Debug\netcoreapp2.0\OddEven.csproj.CoreCompileInputs.cache
+D:\greenfox\Plonee\week-01\day-04\repos\OddEven\OddEven\obj\Debug\netcoreapp2.0\OddEven.AssemblyInfoInputs.cache
+D:\greenfox\Plonee\week-01\day-04\repos\OddEven\OddEven\obj\Debug\netcoreapp2.0\OddEven.AssemblyInfo.cs
+D:\greenfox\Plonee\week-01\day-04\repos\OddEven\OddEven\bin\Debug\netcoreapp2.0\OddEven.deps.json
+D:\greenfox\Plonee\week-01\day-04\repos\OddEven\OddEven\bin\Debug\netcoreapp2.0\OddEven.runtimeconfig.json
+D:\greenfox\Plonee\week-01\day-04\repos\OddEven\OddEven\bin\Debug\netcoreapp2.0\OddEven.runtimeconfig.dev.json
+D:\greenfox\Plonee\week-01\day-04\repos\OddEven\OddEven\bin\Debug\netcoreapp2.0\OddEven.dll
+D:\greenfox\Plonee\week-01\day-04\repos\OddEven\OddEven\bin\Debug\netcoreapp2.0\OddEven.pdb
+D:\greenfox\Plonee\week-01\day-04\repos\OddEven\OddEven\obj\Debug\netcoreapp2.0\OddEven.dll
+D:\greenfox\Plonee\week-01\day-04\repos\OddEven\OddEven\obj\Debug\netcoreapp2.0\OddEven.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\AnimalsAndLegs\AnimalsAndLegs\bin\Debug\netcoreapp2.0\AnimalsAndLegs.deps.json
+C:\Users\User\source\repos\AnimalsAndLegs\AnimalsAndLegs\bin\Debug\netcoreapp2.0\AnimalsAndLegs.runtimeconfig.json
+C:\Users\User\source\repos\AnimalsAndLegs\AnimalsAndLegs\bin\Debug\netcoreapp2.0\AnimalsAndLegs.runtimeconfig.dev.json
+C:\Users\User\source\repos\AnimalsAndLegs\AnimalsAndLegs\bin\Debug\netcoreapp2.0\AnimalsAndLegs.dll
+C:\Users\User\source\repos\AnimalsAndLegs\AnimalsAndLegs\bin\Debug\netcoreapp2.0\AnimalsAndLegs.pdb
+C:\Users\User\source\repos\AnimalsAndLegs\AnimalsAndLegs\obj\Debug\netcoreapp2.0\AnimalsAndLegs.csprojAssemblyReference.cache
+C:\Users\User\source\repos\AnimalsAndLegs\AnimalsAndLegs\obj\Debug\netcoreapp2.0\AnimalsAndLegs.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AnimalsAndLegs\AnimalsAndLegs\obj\Debug\netcoreapp2.0\AnimalsAndLegs.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AnimalsAndLegs\AnimalsAndLegs\obj\Debug\netcoreapp2.0\AnimalsAndLegs.AssemblyInfo.cs
+C:\Users\User\source\repos\AnimalsAndLegs\AnimalsAndLegs\obj\Debug\netcoreapp2.0\AnimalsAndLegs.dll
+C:\Users\User\source\repos\AnimalsAndLegs\AnimalsAndLegs\obj\Debug\netcoreapp2.0\AnimalsAndLegs.pdb
