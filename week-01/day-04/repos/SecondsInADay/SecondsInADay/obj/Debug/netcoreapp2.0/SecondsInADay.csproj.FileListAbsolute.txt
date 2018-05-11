@@ -8,3 +8,4 @@ c:\users\user\source\repos\SecondsInADay\SecondsInADay\obj\Debug\netcoreapp2.0\S
 c:\users\user\source\repos\SecondsInADay\SecondsInADay\obj\Debug\netcoreapp2.0\SecondsInADay.AssemblyInfo.cs
 c:\users\user\source\repos\SecondsInADay\SecondsInADay\obj\Debug\netcoreapp2.0\SecondsInADay.dll
 c:\users\user\source\repos\SecondsInADay\SecondsInADay\obj\Debug\netcoreapp2.0\SecondsInADay.pdb
+C:\Users\User\source\repos\SecondsInADay\SecondsInADay\obj\Debug\netcoreapp2.0\SecondsInADay.csprojAssemblyReference.cache
