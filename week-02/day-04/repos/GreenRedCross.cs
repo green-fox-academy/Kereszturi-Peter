@@ -16,10 +16,10 @@ namespace WpfApp1
 
         public static void DrawGreenLines(FoxDraw foxDraw)
         {
-            foxDraw.StrokeColor(Colors.Green);
+            foxDraw.StrokeColor(Colors.Red);
             foxDraw.DrawLine(0, 300, 600, 300);
 
-            foxDraw.StrokeColor(Colors.Red);
+            foxDraw.StrokeColor(Colors.Green);
             foxDraw.DrawLine(300, 0, 300, 600);
         }
     }
