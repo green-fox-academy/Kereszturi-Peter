@@ -48,16 +48,9 @@ namespace Dominoes
                 }
             }
 
-            foreach (var item in dominoesRightOrder)
+            foreach (var domino in dominoesRightOrder)
             {
-                Console.Write("[ ");
-
-                foreach (var x in item.GetValues())
-                {
-                    Console.Write(x + ", ");
-                }
-
-                Console.Write(" ]");
+                    Console.Write(domino.ToString());
             }
         }
     }

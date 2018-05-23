@@ -15,5 +15,10 @@ namespace Dominoes
         {
             return Values;
         }
+
+        public override string ToString()
+        {
+            return string.Format("[ {0}, {1} ] ", Values[0], Values[1]);
+        }
     }
 }
