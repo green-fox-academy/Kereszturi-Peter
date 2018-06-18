@@ -21,7 +21,12 @@ namespace Excercise5
                 Console.WriteLine("Number " + arrNo.Key + " appears " + arrNo.Count() + " times");
             }
 
-            var frequencyMethod = arrayOne.ToDictionary(x => x.Key, x => x.ToList().Count);
+            var frequencyMethod = arrayOne.OrderBy(x => x).GroupBy(x => x).ToDictionary(x => x.Key, x => x.ToList().Count);
+
+            foreach (var item in frequencyMethod)
+            {
+                Console.WriteLine(item);
+            }
 
             Console.ReadLine();
         }
