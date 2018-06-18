@@ -40,7 +40,20 @@ namespace Excercise1
 
             Console.WriteLine(averageOfOddMethod.Average());
 
+            IEnumerable<int> squareQuery = from numbers in n
+                                           select numbers * numbers;
 
+            foreach (var item in squareQuery)
+            {
+                Console.WriteLine(item);
+            }
+
+            IEnumerable<int> squareMethod = n.Select(x => x * x);
+
+            foreach (var item in squareMethod)
+            {
+                Console.WriteLine(item);
+            }
 
             Console.ReadLine();
         }
