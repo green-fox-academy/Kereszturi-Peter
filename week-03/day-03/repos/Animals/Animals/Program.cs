@@ -13,6 +13,7 @@ namespace Animals
             Animal monkey = new Animal();
             monkey.Play();
             Console.Write(monkey.GetThirst() + " " + monkey.GetHunger());
+            Console.WriteLine(monkey.RandomDiceRoll());
 
             Console.ReadLine();
         }

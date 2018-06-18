@@ -29,7 +29,8 @@ namespace GFInheritance
 
         public string Info()
         {
-            return String.Format("The {0} cohort has {1} students and {2} mentors.", name, students.Count, mentors.Count);
+            return String.Format("The {0} cohort has {1} students and {2} mentors.", 
+                name, students.Count, mentors.Count);
         }
     }
 }

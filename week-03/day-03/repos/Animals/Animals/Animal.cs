@@ -1,4 +1,6 @@
 ﻿
+using System;
+
 namespace Animals
 {
     class Animal
@@ -36,6 +38,13 @@ namespace Animals
         {
             hunger += 1;
             thirst += 1;
+        }
+
+        public int RandomDiceRoll()
+        {
+            Random diceRoll = new Random();
+            int d6 = new Random().Next(1, 6);
+            return d6;
         }
     }
 }

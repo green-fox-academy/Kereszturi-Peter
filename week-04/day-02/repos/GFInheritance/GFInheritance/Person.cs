@@ -28,7 +28,7 @@ namespace GFInheritance
 
         public virtual string Introduce()
         {
-            string introduce = String.Format("Hi I am {0}, a {1} year old {2}.", name, age, gender); ;
+            string introduce = String.Format("Hi I am {0}, a {1} year old {2}.", name, age, gender);
             return introduce;
         }
 
