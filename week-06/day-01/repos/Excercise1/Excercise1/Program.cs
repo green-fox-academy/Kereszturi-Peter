@@ -30,6 +30,18 @@ namespace Excercise1
                 Console.WriteLine(evenNumsMethod);
             }
 
+            IEnumerable<int> averageOfOddQuery = from number in n
+                                                 where number % 2 != 0
+                                                 select number;
+
+            Console.WriteLine(averageOfOddQuery.Average());
+
+            IEnumerable<int> averageOfOddMethod = n.Where(x => x % 2 != 0);
+
+            Console.WriteLine(averageOfOddMethod.Average());
+
+
+
             Console.ReadLine();
         }
     }
