@@ -11,6 +11,8 @@ namespace TODOAPP2
         static void Main(string[] args)
         {
             Database databaseObject = new Database();
+
+            Console.ReadLine();
         }
     }
 }
