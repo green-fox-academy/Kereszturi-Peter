@@ -12,15 +12,13 @@ namespace WebApplication1.Controllers
     {
         public IActionResult Index()
         {
-            return View("asdf");
+            return View();
         }
 
         [Route("greeting")]
-        public IActionResult Greeting()
+        public IActionResult Greeting(string name)
         {
-            Greeting konnichiwa = new Greeting();
-            konnichiwa.longID = 1;
-            konnichiwa.content = "Hello World!";
+            Greeting konnichiwa = new Greeting(name);
             return new JsonResult(konnichiwa);
         }
     }
