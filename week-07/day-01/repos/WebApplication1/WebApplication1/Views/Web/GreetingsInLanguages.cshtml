@@ -1,0 +1,18 @@
+﻿@model WebApplication1.Models.HelloInLanguages
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Colorful greetings</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+    <div>
+        @foreach (var i in Model.hellos)
+        {
+            <span style="font-size:@Model.GetFontSize()px; color:rgb(@Model.GetColor(), @Model.GetColor(), @Model.GetColor());">
+                @i @Model.Name
+            </span>
+        }
+    </div>
+</body>
+</html>

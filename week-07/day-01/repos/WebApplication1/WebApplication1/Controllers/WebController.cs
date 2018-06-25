@@ -16,5 +16,12 @@ namespace WebApplication1.Controllers
             var greeting = new Greeting(name);
             return View(greeting);
         }
+
+        [Route("greetings/{name}")]
+        public IActionResult GreetingsInLanguages(string name)
+        {
+            HelloInLanguages helloka = new HelloInLanguages() { Name=name };
+            return View(helloka);
+        }
     }
 }
