@@ -9,12 +9,18 @@ namespace WebApplication1.Models
     {
         public static long ID_ka = 1;
         public long ID { get; set; }
-        public string content { get; set; }
+        public string Content { get; set; }
+
+        public Greeting()
+        {
+
+        }
 
         public Greeting(string name)
         {
-            content = name;
+            Content = name;
             ID = ID_ka++;
         }
+
     }
 }
