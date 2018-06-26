@@ -1,0 +1,28 @@
+﻿@model BankOfSimba.ViewModels.BankAccountAnimalViewModel
+<!DOCTYPE HTML>
+<head>
+    <title>Bank of Simba</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+    <table style="font-size: 30px; text-align:center;">
+        <tr style="border: 1px solid black">
+            <th>Index</th>
+            <th>Name</th>
+            <th>Balance</th>
+            <th>Animal Type</th>
+        </tr>
+        @{int index = 0;}
+        @foreach (var item in Model.BankAccountDatabase)
+        {
+        <tr>
+            <td>@index</td>
+            <td>@item.Name</td>
+            <td>@item.Balance</td>
+            <td>@item.AnimalType</td>
+        </tr>
+            index++;
+        }
+    </table>
+</body>
+</html>
