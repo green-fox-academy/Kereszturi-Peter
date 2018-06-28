@@ -1,14 +1,17 @@
-﻿using System;
+﻿using OrcClub.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
 namespace OrcClub.Services
 {
-    interface IOrcLife
+    public interface IOrcLife
     {
-        string GetName();
-        string SetName();
+        //string GetName();
+        //void SetName(string name);
+        void AddOrc(string name);
+        Orc GetOrc(string name);
         string FeedTheOrc();
         string TeachTricks();
     }

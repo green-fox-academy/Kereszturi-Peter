@@ -5,17 +5,18 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using OrcClub.Models;
+using OrcClub.Services;
 
 namespace OrcClub.Controllers
 {
     public class HomeController : Controller
     {
-        //private Orc orc;
+        private IOrcLife orc;
 
-        //public HomeController(Orc orc)
-        //{
-        //    this.orc = orc;
-        //}
+        public HomeController(IOrcLife orc)
+        {
+            this.orc = orc;
+        }
 
         [HttpGet]
         [Route("/")]
@@ -28,16 +29,16 @@ namespace OrcClub.Controllers
         [Route("/")]
         public IActionResult Login(string input)
         {
-            //orc.SetName(input);
-            return Redirect("/Info");
+            orc.AddOrc(input);
+            return RedirectToAction("Info", new { Name = input });
         }
 
         [HttpGet]
         [Route("/Info")]
-        public IActionResult Info()
+        public IActionResult Info(string input)
         {
-            //object characterName = orc.GetName();
-            return View();
+
+            return View(orc.GetOrc(input));
         }
     }
 }

@@ -1,31 +1,14 @@
-﻿using OrcClub.Services;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace OrcClub
+namespace OrcClub.Models
 {
-    public class Orc : IOrcLife
+    public class Orc
     {
-        public string FeedTheOrc()
-        {
-            throw new NotImplementedException();
-        }
-
-        public string GetName()
-        {
-            throw new NotImplementedException();
-        }
-
-        public string SetName()
-        {
-            throw new NotImplementedException();
-        }
-
-        public string TeachTricks()
-        {
-            throw new NotImplementedException();
-        }
+        public string Name { get; set; }
+        public string Food { get; set; }
+        public List<string> tricks { get; set; }
     }
 }
