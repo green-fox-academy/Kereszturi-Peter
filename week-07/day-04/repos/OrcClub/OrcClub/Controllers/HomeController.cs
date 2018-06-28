@@ -10,6 +10,12 @@ namespace OrcClub.Controllers
 {
     public class HomeController : Controller
     {
+        private Orc orc;
+
+        public HomeController(Orc orc)
+        {
+            this.orc = orc;
+        }
 
         [HttpGet]
         [Route("/")]
@@ -22,6 +28,7 @@ namespace OrcClub.Controllers
         [Route("/")]
         public IActionResult Login(string input)
         {
+            orc.SetName(input);
             return Redirect("/Info");
         }
 
