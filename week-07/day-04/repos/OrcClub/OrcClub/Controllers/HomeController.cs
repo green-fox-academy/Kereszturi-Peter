@@ -30,7 +30,7 @@ namespace OrcClub.Controllers
         public IActionResult Login(string input)
         {
             orc.AddOrc(input);
-            return RedirectToAction("Info", new { Name = input });
+            return RedirectToAction("Info", input);
         }
 
         [HttpGet]

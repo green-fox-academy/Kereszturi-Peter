@@ -8,7 +8,7 @@ namespace OrcClub.Models
     public class Orc
     {
         public string Name { get; set; }
-        public string Food { get; set; }
-        public List<string> tricks { get; set; }
+        public string EatingFood { get; set; }
+        public string DoingTricks { get; set; }
     }
 }

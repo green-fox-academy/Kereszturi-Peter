@@ -10,10 +10,12 @@ namespace OrcClub
     public class OrcService : IOrcLife
     {
         private List<Orc> orcList;
+        private FoodAndDrink whatOrcEats;
 
         public OrcService()
         {
             orcList = new List<Orc>();
+            whatOrcEats = new FoodAndDrink();
         }
 
         public void AddOrc(string name)
@@ -30,7 +32,7 @@ namespace OrcClub
 
         public string FeedTheOrc()
         {
-            throw new NotImplementedException();
+            return whatOrcEats.food[1];
         }
 
         public string TeachTricks()

@@ -8,8 +8,6 @@ namespace OrcClub.Services
 {
     public interface IOrcLife
     {
-        //string GetName();
-        //void SetName(string name);
         void AddOrc(string name);
         Orc GetOrc(string name);
         string FeedTheOrc();
