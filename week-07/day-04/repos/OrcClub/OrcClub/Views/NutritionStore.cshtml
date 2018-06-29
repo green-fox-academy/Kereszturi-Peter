@@ -1,0 +1,16 @@
+﻿@model OrcClub.Services.IOrcLife
+
+@{
+    ViewData["Title"] = "NutritionStore";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>NutritionStore</h1>
+
+<h2>What does your orc eat?</h2>
+
+<form action="/Info/NutritionStore" method="post">
+    <input type="text" name="drink" value="Health potion" placeholder="DRINK" autocomplete="on" required />
+    <input type="text" name="food" value="Meat" placeholder="FOOD" autocomplete="on" required />
+    <button type="submit">Submit</button>
+</form>

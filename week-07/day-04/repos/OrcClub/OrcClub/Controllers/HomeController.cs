@@ -40,5 +40,12 @@ namespace OrcClub.Controllers
 
             return View(orc.GetOrc(input));
         }
+
+        [HttpPost]
+        [Route("/Info/Nutritionstore")]
+        public IActionResult NutritionStore()
+        {
+            return View();
+        }
     }
 }
