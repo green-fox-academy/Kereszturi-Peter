@@ -1,0 +1,23 @@
+﻿@model BankOfSimba2.ViewModels.HomeIndexViewModel
+@{
+    ViewData["Title"] = "AnimalAccounts";
+}
+
+<h2>AnimalAccounts</h2>
+
+<table>
+    <tr>
+        <th>Index</th>
+        <th>Name</th>
+        <th>Account Balance</th>
+        <th>Animal Type</th>
+    </tr>
+    @foreach (var item in Model.accountsOfAnimals)
+    {
+        <tr>
+            <td>@item.ID</td>
+            <td>@item.Name</td>
+            <td>@item.Balancer()</td>
+            <td>@item.AnimalType</td>
+        </tr>}
+</table>

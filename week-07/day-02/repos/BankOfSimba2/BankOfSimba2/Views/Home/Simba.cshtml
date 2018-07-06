@@ -1,0 +1,17 @@
+﻿@model BankAccount
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Simba's bankc account</title>
+</head>
+<body>
+    @{
+        ViewData["Title"] = "Simba";
+    }
+    <h2>Simba</h2>
+    <strong>Client name: @Model.Name<br>
+    Account balance: @Model.Balancer()<br>
+    Animal type: @Model.AnimalType<br></strong>
+
+</body>
+</html>
+
