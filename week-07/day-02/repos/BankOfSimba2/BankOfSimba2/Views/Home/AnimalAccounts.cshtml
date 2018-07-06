@@ -11,6 +11,7 @@
         <th>Name</th>
         <th>Account Balance</th>
         <th>Animal Type</th>
+        <th>Is King</th>
     </tr>
     @foreach (var item in Model.accountsOfAnimals)
     {
@@ -19,5 +20,6 @@
             <td>@item.Name</td>
             <td>@item.Balancer()</td>
             <td>@item.AnimalType</td>
+            <td>@item.IsKing</td>
         </tr>}
 </table>

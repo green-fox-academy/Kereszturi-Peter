@@ -38,7 +38,7 @@ namespace BankOfSimba2.Controllers
         [Route("simba")]
         public IActionResult Simba()
         {
-            BankAccount simbasAccount = new BankAccount("Simba", 2000, "Lion");
+            BankAccount simbasAccount = new BankAccount("Simba", 2000, "Lion", true);
             return View(simbasAccount);
         }
 
